@@ -1,1 +1,1 @@
-Some scripts for administration in ubuntu
+Some scripts for administration in ubuntu.
